@@ -2,8 +2,6 @@
 
 ### Desygna
 
-<img height="18px" src="" />
-
 <img src="img/desygna_icon.png" align="left" width="60px" style="margin-right: 4px; margin-top: 4px;"/>
 
 Desygna is a simple, powerful and extensible styling library.
