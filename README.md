@@ -7,6 +7,8 @@
 Desygna is a simple, powerful and extensible styling library.
 It provides typesafe css-in-js helpers that makes easier to create variant based components.
 
+<br />
+
 - Source: https://github.com/desygna/desygna
 - Documentation: https://desygna.vercel.app
 
