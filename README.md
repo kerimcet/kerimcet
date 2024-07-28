@@ -7,7 +7,11 @@
 Desygna is a simple, powerful and extensible styling library.
 It provides typesafe css-in-js helpers that makes easier to create variant based components.
 
+<p>&nbsp;</p>
+
 ---
+
+<p>&nbsp;</p>
 
 ## Side Projects
 
