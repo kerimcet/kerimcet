@@ -24,6 +24,7 @@ It is a code editor similar to VSCode. The editor offers a local-first approach,
 
 The editor includes a commit reminder feature to help users keep track of their changes and commit regularly. It also offers a beautiful commit history view via a calendar, making it easy to visualize and navigate through past commits. Additionally, the editor provides syntax highlighting for various programming languages, enhancing the coding experience and readability.
 
-|                             |                             |                             |
-| :-------------------------: | :-------------------------: | :-------------------------: |
-| ![alt text](img/peki_1.png) | ![alt text](img/peki_2.png) | ![alt text](img/peki_3.png) |
+|                             |                             |
+| :-------------------------: | :-------------------------: |
+| ![alt text](img/peki_1.png) | ![alt text](img/peki_2.png) |
+| ![alt text](img/peki_3.png) | ![alt text](img/peki_4.png) |
